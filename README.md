@@ -7,3 +7,7 @@ Tipos de arquivos .csv separados por vírgula situados em pastas distintas no bu
 
 # Arquitetura de dados.
 ![image](https://user-images.githubusercontent.com/63620777/234071926-d3281215-c406-4a6f-89df-f55539c2dbcc.png)
+
+O processo é interligado com o Alteryx Analytics, onde é responsável por fazer a transformação e a carga dos dados no banco de dados Redshift.
+
+![image](https://user-images.githubusercontent.com/63620777/234072932-6d67cbbc-9ecb-44a8-94b1-43a3ea500bea.png)
